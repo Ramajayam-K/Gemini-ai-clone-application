@@ -10,10 +10,10 @@ The **Gemini AI Clone Application** is a conversational AI interface designed to
 ## Screenshots
 
 ### White Mode
-![White Mode](readme Image/White Mode.PNG)
+![White Mode](Image/WhiteMode.PNG)
 
 ### Dark Mode
-![Dark Mode](readme Image/Dark Mode.PNG)
+![Dark Mode](Image/DarkMode.PNG)
 
 ### Conversation View
-![Conversation](readme Image/Conversation.PNG)
+![Conversation](Image/Conversation.PNG)
